@@ -30,6 +30,8 @@ Leadership is participatory, with clear pathways for members to take initiative.
 ## Where is that link?
 ### [Chicago Tech Community (CTC) Program Document](https://docs.google.com/document/d/1-feoqJG46ZIU2APu7fydHGdp_6qNC9MAjdISOy0WvPc)
 
+### [Web3Weekends ChaChing Community](https://www.chaching.social/communities/web3weekends)
+
 ### [CTC (Chicago Tech Community) Discord](https://discord.gg/G3QHV6Q6)
 
 ### [Web3Weekends Community Deck](https://github.com/Web3Weekends/welcome-to-web3weekends/blob/main/CTC-Presents-Web3-Weekends%20for%20the%20community.pdf)
